@@ -12,8 +12,8 @@ body{
 
 .calculator {
     background-color: rgba(0, 0, 0, 0.9);
-    width: 28.5rem;
-    height: 50rem;
+    width: 465px;
+    height: 800px;
     margin-left: auto;
     margin-right: auto;
     margin-top: 80px;
@@ -26,7 +26,7 @@ body{
     grid-template-columns: repeat(4, 1fr);
     width: 400px;
     height: 500px;
-    gap: 10px;
+    gap: 15px;
     padding: 0 10px;
     margin: 0 auto;
 }
